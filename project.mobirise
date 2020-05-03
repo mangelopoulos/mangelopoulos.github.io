@@ -582,7 +582,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#232323",
+              "color": "#073b4c",
               "text-align": "left"
             }
           },
